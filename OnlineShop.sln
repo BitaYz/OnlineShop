@@ -17,17 +17,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_Domain", "03_Domain", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_Infrastructure", "04_Infrastructure", "{61D59CA7-368E-482F-99EF-C6C1A652C40D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onlineshop.Domain", "Onlineshop.Domain\Onlineshop.Domain.csproj", "{A1FD4B1B-7248-440F-AE9F-9433231D618B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Onlineshop.Domain", "Onlineshop.Domain\Onlineshop.Domain.csproj", "{A1FD4B1B-7248-440F-AE9F-9433231D618B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.BackofficeWebClient", "OnlineShop.BackofficeWebClient\OnlineShop.BackofficeWebClient.csproj", "{71EA4FB5-2358-4747-9491-555E7619C20B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineShop.BackofficeWebClient", "OnlineShop.BackofficeWebClient\OnlineShop.BackofficeWebClient.csproj", "{71EA4FB5-2358-4747-9491-555E7619C20B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.OfficeWebClient", "OnlineShop.OfficeWebClient\OnlineShop.OfficeWebClient.csproj", "{27B08B6D-5F56-418F-BBA6-F92F20986635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineShop.OfficeWebClient", "OnlineShop.OfficeWebClient\OnlineShop.OfficeWebClient.csproj", "{27B08B6D-5F56-418F-BBA6-F92F20986635}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicTools", "PublicTools\PublicTools.csproj", "{80A1ECE4-FCDD-4DBE-9451-3CAB36EC2384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PublicTools", "PublicTools\PublicTools.csproj", "{80A1ECE4-FCDD-4DBE-9451-3CAB36EC2384}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseFramework", "ResponseFramework\ResponseFramework.csproj", "{36D406CB-4AED-4F32-9143-1D85B0CDCD02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResponseFramework", "ResponseFramework\ResponseFramework.csproj", "{36D406CB-4AED-4F32-9143-1D85B0CDCD02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Backoffice.WebApiEndpoint", "OnlineShop.Backoffice.WebApiEndpoint\OnlineShop.Backoffice.WebApiEndpoint.csproj", "{88A8B710-D595-4224-B646-9F6706AC9FEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineShop.Backoffice.WebApiEndpoint", "OnlineShop.Backoffice.WebApiEndpoint\OnlineShop.Backoffice.WebApiEndpoint.csproj", "{88A8B710-D595-4224-B646-9F6706AC9FEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lll", "lll", "{B697E50E-FD4C-4DD8-822C-1DD54AA79D1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +76,7 @@ Global
 		{80A1ECE4-FCDD-4DBE-9451-3CAB36EC2384} = {9C65F0E1-FAA6-4722-B142-05202EFCFBFE}
 		{36D406CB-4AED-4F32-9143-1D85B0CDCD02} = {9C65F0E1-FAA6-4722-B142-05202EFCFBFE}
 		{88A8B710-D595-4224-B646-9F6706AC9FEA} = {C81C14BB-5B56-4F15-B051-A29BEB26C870}
+		{B697E50E-FD4C-4DD8-822C-1DD54AA79D1E} = {C81C14BB-5B56-4F15-B051-A29BEB26C870}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D2AF00A8-5A01-4014-B12E-A78FCC5FA680}
