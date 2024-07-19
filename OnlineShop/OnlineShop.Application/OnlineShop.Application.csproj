@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Dtos\UserManagementAppDtos\UserRoleAppDtos\**" />
+    <Compile Remove="UserManagmentServices\**" />
+    <EmbeddedResource Remove="Dtos\UserManagementAppDtos\UserRoleAppDtos\**" />
+    <EmbeddedResource Remove="UserManagmentServices\**" />
+    <None Remove="Dtos\UserManagementAppDtos\UserRoleAppDtos\**" />
+    <None Remove="UserManagmentServices\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JWT" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShop.EFCore\OnlineShop.EFCore.csproj" />
+    <ProjectReference Include="..\OnlineShop.RepositoryDesignPatern\OnlineShop.RepositoryDesignPatern.csproj" />
+    <ProjectReference Include="..\OnlineShopDomain\OnlineShopDomain.csproj" />
+    <ProjectReference Include="..\PublicTools\PublicTools.csproj" />
+    <ProjectReference Include="..\ResponseFramework\ResponseFramework.csproj" />
+  </ItemGroup>
+
+</Project>

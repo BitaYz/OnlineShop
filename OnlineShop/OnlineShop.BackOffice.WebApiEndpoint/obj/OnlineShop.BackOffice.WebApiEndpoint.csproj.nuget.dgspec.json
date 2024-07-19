@@ -1,0 +1,558 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.BackOffice.WebApiEndpoint\\OnlineShop.BackOffice.WebApiEndpoint.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj",
+        "projectName": "OnlineShop.Application",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.RepositoryDesignPatern\\OnlineShop.RepositoryDesignPatern.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.RepositoryDesignPatern\\OnlineShop.RepositoryDesignPatern.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\ResponseFramework\\ResponseFramework.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\ResponseFramework\\ResponseFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "JWT": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.BackOffice.WebApiEndpoint\\OnlineShop.BackOffice.WebApiEndpoint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.BackOffice.WebApiEndpoint\\OnlineShop.BackOffice.WebApiEndpoint.csproj",
+        "projectName": "OnlineShop.BackOffice.WebApiEndpoint",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.BackOffice.WebApiEndpoint\\OnlineShop.BackOffice.WebApiEndpoint.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.BackOffice.WebApiEndpoint\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.41.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj",
+        "projectName": "OnlineShop.EFCore",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.RepositoryDesignPatern\\OnlineShop.RepositoryDesignPatern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.RepositoryDesignPatern\\OnlineShop.RepositoryDesignPatern.csproj",
+        "projectName": "OnlineShop.RepositoryDesignPatern",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.RepositoryDesignPatern\\OnlineShop.RepositoryDesignPatern.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.RepositoryDesignPatern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShop.EFCore\\OnlineShop.EFCore.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\ResponseFramework\\ResponseFramework.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\ResponseFramework\\ResponseFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj",
+        "projectName": "OnlineShopDomain",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\OnlineShopDomain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\OnlineShopDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj",
+        "projectName": "PublicTools",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\PublicTools.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\PublicTools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\ResponseFramework\\ResponseFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\ResponseFramework\\ResponseFramework.csproj",
+        "projectName": "ResponseFramework",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\ResponseFramework\\ResponseFramework.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (2)\\Bita\\Bita\\NewWebProject\\OnlineShop\\ResponseFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

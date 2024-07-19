@@ -1,0 +1,274 @@
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\appsettings.json
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.exe
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.deps.json
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.runtimeconfig.json
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.pdb
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\JWT.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Application.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.EFCore.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.RepositoryDesignPatern.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShopDomain.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\PublicTools.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\ResponseFramework.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Application.pdb
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.EFCore.pdb
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.RepositoryDesignPatern.pdb
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShopDomain.pdb
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\PublicTools.pdb
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\ResponseFramework.pdb
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.csproj.AssemblyReference.cache
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.AssemblyInfoInputs.cache
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.AssemblyInfo.cs
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.csproj.CoreCompileInputs.cache
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.sourcelink.json
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.OnlineShop.Office.WebApiEndpoint.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.build.OnlineShop.Office.WebApiEndpoint.props
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShop.Office.WebApiEndpoint.props
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OnlineShop.Office.WebApiEndpoint.props
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\scopedcss\bundle\OnlineShop.Office.WebApiEndpoint.styles.css
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineSh.24E362A9.Up2Date
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\refint\OnlineShop.Office.WebApiEndpoint.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.pdb
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.genruntimeconfig.cache
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\ref\OnlineShop.Office.WebApiEndpoint.dll
+D:\Projects\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\appsettings.json
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.exe
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.deps.json
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.runtimeconfig.json
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.pdb
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\JWT.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Application.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.EFCore.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.RepositoryDesignPatern.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShopDomain.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\PublicTools.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\ResponseFramework.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Application.pdb
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.EFCore.pdb
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShopDomain.pdb
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.RepositoryDesignPatern.pdb
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\PublicTools.pdb
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\ResponseFramework.pdb
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.csproj.AssemblyReference.cache
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.AssemblyInfoInputs.cache
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.AssemblyInfo.cs
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.csproj.CoreCompileInputs.cache
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.OnlineShop.Office.WebApiEndpoint.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.build.OnlineShop.Office.WebApiEndpoint.props
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShop.Office.WebApiEndpoint.props
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OnlineShop.Office.WebApiEndpoint.props
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\scopedcss\bundle\OnlineShop.Office.WebApiEndpoint.styles.css
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineSh.24E362A9.Up2Date
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\refint\OnlineShop.Office.WebApiEndpoint.dll
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.pdb
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.genruntimeconfig.cache
+D:\Projects\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\ref\OnlineShop.Office.WebApiEndpoint.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.exe
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.deps.json
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.pdb
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\JWT.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Application.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.EFCore.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.RepositoryDesignPatern.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShopDomain.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\PublicTools.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\ResponseFramework.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.Application.pdb
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.EFCore.pdb
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShopDomain.pdb
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\OnlineShop.RepositoryDesignPatern.pdb
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\PublicTools.pdb
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\bin\Debug\net8.0\ResponseFramework.pdb
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.OnlineShop.Office.WebApiEndpoint.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.build.OnlineShop.Office.WebApiEndpoint.props
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShop.Office.WebApiEndpoint.props
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OnlineShop.Office.WebApiEndpoint.props
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\scopedcss\bundle\OnlineShop.Office.WebApiEndpoint.styles.css
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\refint\OnlineShop.Office.WebApiEndpoint.dll
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.pdb
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\OnlineShop.Office.WebApiEndpoint.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder (2)\Bita\Bita\NewWebProject\OnlineShop\OnlineShop.Office.WebApiEndpoint\obj\Debug\net8.0\ref\OnlineShop.Office.WebApiEndpoint.dll
